@@ -1,0 +1,3 @@
+post-build=sony/omni_hayabusa/hayabusa:4.4.2/KVT49L/eng.hamster.20140531.082559:userdebug/test-keys
+post-timestamp=1401496151
+pre-device=hayabusa
